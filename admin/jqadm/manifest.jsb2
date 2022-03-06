@@ -1,0 +1,22 @@
+{
+	"projectName": "bidsystem",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "bidsystem CSS",
+		"file": "bidsystem.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "bidsystem JS",
+		"file": "bidsystem.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "js/"
+		}]
+	}],
+	"resources" : []
+}
